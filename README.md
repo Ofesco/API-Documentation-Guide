@@ -1,10 +1,10 @@
 # API-Documentation-Guide
  
-# Welcome to The API Documentation Guide!
+# API Documentation Guide!
 
 
 # Summary
-With over 6 years of experience in the realm of technical writing, I've found myself fielding inquiries from both newcomers and mid-level technical writers, as well as startup owners, all curious about the ins and outs of API guideline documentation. In response to this demand, I've taken the initiative to craft and publish a comprehensive guide. My aim is to provide practical assistance to those seeking to enhance their API development processes and understanding. Your journey to mastering APIs starts here, and I trust this document will prove to be a valuable asset in achieving that goal.																																									........ Leo O Okore
+With more than a decade of experience in technical writing, I have frequently been approached by entry-level and mid-career technical writers, as well as startup founders, seeking clarity on API guideline documentation. In response to this consistent demand, I developed and published a comprehensive guide designed to address these needs. This resource offers practical, actionable insights to help readers strengthen their understanding of APIs and improve their API development practices. I hope it serves as a valuable reference as you advance toward mastery in this domain.																																								........ Leo O Okore
 
 <div style="page-break-after: always"></div>
 
